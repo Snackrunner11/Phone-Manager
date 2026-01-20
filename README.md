@@ -10,15 +10,14 @@
 
 </div>
 
-Dieser Programm enthält: 
+This Programm Contains: 
 
-- Java GUI in Swing
-- Speicher von Händydaten und Kundendaten
-- Auflistung von Händydaten und Kundendaten
-- Daten löschen
-- Daten aktualisieren
-
+* **Java GUI in Swing:** A graphical user interface built using the Java Swing framework.
+* **Data Storage:** Save phone data and customer data efficiently.
+* **Data Listing:** View a complete list of all stored phones and customers.
+* **Update Data:** Modify existing records in the database.
+* **Delete Data:** Remove obsolete entries easily.
 
 > [!IMPORTANT]
-> Das Benutzen dieses Phone Managers wird die Applikation [MongoDB](https://www.mongodb.com/de-de) gebraucht.
-> Ohne dieser Applikation, wird dieser Phone Manager nicht funktionieren!
+> To use this Phone Manager, the application [MongoDB](https://www.mongodb.com/de-de) is required. 
+> Without this application, this Phone Manager will not function!
